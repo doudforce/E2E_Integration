@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
 
-    <dependencies>k
+    <dependencies>
 
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
